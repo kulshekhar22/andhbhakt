@@ -175,3 +175,49 @@ Amounts are in rupees; rows were grouped by their displayed values and checked a
 Both orders, paragraphs 4–8 on page 3, identify principals as drawing/disbursing officers, specify the relevant district treasury, require GeM procurement (with the stated rule-based alternative when unavailable), place quality responsibility on principals, require equipment lists and installation reports, prohibit excess procurement beyond need, and limit drawal to issued allotment/budget provisions.
 
 **हिन्दी:** दोनों आदेशों की मूल scanned copies, वितरण तालिकाएँ और कुल राशि जाँची गई हैं। अब इन दो records को केवल “register entry” नहीं, बल्कि “signed sanction document inspected” कहा जा सकता है। Actual expenditure, delivery और installation की स्थिति के लिए treasury records, invoices, receipt/stock entries और installation reports चाहिए। Institution-wise figures यहाँ केवल department-wide total की जाँच के लिए पढ़े गए; अलग college profiles नहीं बनाए गए।
+
+
+## Expenditure and installation follow-up — 17 October 2026
+
+### Search coverage and limits
+
+Searched indexed official material using order numbers 4484/4485, the two budget bill codes, and Hindi/English terms for expenditure, utilisation certificates and installation reports. Also fetched the department's Meeting Proceeding, Inspection Report and Budget-Aawantan registers directly.
+
+- **S9 — Meeting Proceeding register:** https://betastate.bihar.gov.in/dst/DyPageView?PageTitleID=1638
+  - Retrieved view lists order 395 dated 25 January 2023, describing a 5 January 2023 review of the status of equipment purchased through GeM for government engineering/polytechnic institutions.
+  - Linked attachment: https://betastate.bihar.gov.in/file_2/FileUpload/2024/Apr/02-Apr-2024/18/DyPage/33c96ccc-6679-48d5-95e1-ac7c42e81536.pdf
+  - Classification: historical register description only; attachment not inspected. The upload-path year is not the meeting year.
+- **S10 — Inspection Report register:** https://betastate.bihar.gov.in/dst/DyPageView?PageTitleID=1641
+  - Retrieved view lists two 2023 institution inspection entries. Neither establishes delivery under August 2026 orders.
+- S4's retrieved allotment view lists 2023 entries; it cannot reconcile the 2026 orders.
+- **S11 — AG Bihar monthly state accounts index:** https://cag.gov.in/ae/bihar/en/state-accounts-report?defuat_account_report_type=360
+  - Located as a broader fiscal-record source. No order-specific expenditure figure was extracted or attributed from it.
+
+This was a bounded public-record search, not an exhaustive inventory of departmental holdings. Search indexing, archived page versions and intermittent portal timeouts limit coverage.
+
+### Evidence status for orders 4484 and 4485
+
+| Stage | Engineering equipment | Polytechnic equipment |
+|---|---|---|
+| Administrative sanction | Signed document inspected | Signed document inspected |
+| First-instalment release stated in sanction order | Documented | Documented |
+| Independent treasury drawal/payment confirmation | Not located in searched material | Not located in searched material |
+| Actual expenditure reconciliation | Not located in searched material | Not located in searched material |
+| Equipment receipt and installation | Not located in searched material | Not located in searched material |
+| Department-wide installation progress report | Not located in searched material | Not located in searched material |
+
+No spending rate or installation percentage can be calculated from the evidence collected. “Not located” must never be rendered as zero expenditure, zero delivery or non-compliance.
+
+### Ready list of records needed from the department
+
+Scope: orders 4484 and 4485 dated 7 August 2026; FY 2026–27; records available up to 17 October 2026.
+
+1. Existing consolidated allotment/release statements and amendments linked to these orders.
+2. Existing head-wise/order-wise expenditure statements, with their as-of dates, separately identifying drawal, payment and unspent balances where maintained.
+3. Existing procurement/delivery status summaries, with GeM contract references where recorded.
+4. Equipment lists and installation reports received by the department under paragraph 7, plus any maintained receipt/pendency register.
+5. Existing review minutes, inspection summaries and reconciliation/utilisation records relating to these two orders.
+
+Request existing records or extracts in the form maintained; do not assume a new consolidated report exists. This is an internal evidence-collection list; no request has been submitted or sent.
+
+**हिन्दी:** उपलब्ध public records से sanction की पुष्टि हुई है। Treasury payment, actual expenditure और installation की पुष्टि अभी बाकी है। पुराने review records को 2026 के काम की प्रगति नहीं माना गया है। अब ऊपर दिए गए मौजूदा records से आगे verification करना होगा।
