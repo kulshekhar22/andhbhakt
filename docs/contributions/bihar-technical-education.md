@@ -96,3 +96,44 @@ Government-reported figures are attributed claims, not independent verification.
 5. Do not infer corruption, financial loss or present conditions from a data gap.
 6. Do not include personal identifiers or unpublished institutional records without authority to share.
 7. This file is an evidence contribution. It does not add a frontend route or change existing scores. Public integration requires source review, a suitable data schema, and bilingual rendering with these qualifications preserved.
+
+## Follow-up search — 17 October 2026 / अतिरिक्त रिकॉर्ड खोज
+
+### Sources located
+
+- **S3 — DSTTTE Budget Swikriti Aadesh register:** https://betastate.bihar.gov.in/dst/DyPageView?PageTitleID=1619
+- **S4 — DSTTTE Budget-Aawantan register:** https://betastate.bihar.gov.in/dst/DyPageView?PageTitleID=1620
+- **S5 — DSTTTE Audit Report register:** https://betastate.bihar.gov.in/dst/DyPageView?PageTitleID=1618
+- **S6 — CAG Report 01 of 2026, period ended March 2024:** https://www.cag.gov.in/en/audit-report/details/124512
+  - Report PDF: https://d7i5wg8xwe4hf.cloudfront.net/uploads/download_audit_report/2026/Bihar_CA-Civil_Report-No-01-of-2026_English-06a62eaa0de6998.45230907.pdf
+
+### Additional department-wide records
+
+The following are transcribed from S3's official register summaries. Signed orders and annexures have not been inspected. Classification: **official register entry located; underlying order verification pending**.
+
+| ID | Date / order | Subject | Recorded amount or posts |
+|---|---|---|---|
+| BTE-005 | 7 Aug 2026 / 4484 | Equipment for 38 engineering colleges, FY 2026–27 | Approval ₹60,49,99,000; first-instalment release approval ₹39,32,49,350 |
+| BTE-006 | 7 Aug 2026 / 4485 | Equipment for 46 polytechnics, FY 2026–27 | Approval ₹60,49,99,000; first-instalment release approval ₹39,32,49,350 |
+| BTE-007 | 21 Jul 2026 / 4125 | M.Tech posts across 10 engineering colleges and BEU | 76: professors 9, associate professors 29, assistant professors 38 |
+| BTE-008 | 16 Feb 2026 / 952 | Internship assistance for 5,827 seventh-semester engineering students, FY 2025–26 | ₹10,000 each; total approval ₹5,82,70,000 |
+| BTE-009 | 21 Feb 2026 / 1096 | Polytechnic equipment, FY 2025–26 | Approval ₹32,08,00,000 |
+
+**Interpretation:** Approval is not evidence of spending, delivery, appointment or beneficiary payment. Do not add these orders into a departmental budget total. Check amendments and overlaps first. Post creation does not establish recruitment or change the earlier staffing baseline automatically.
+
+**हिन्दी:** ये स्वीकृत्यादेश register में दर्ज entries हैं। भुगतान, सामान की स्थापना, नियुक्ति और internship सहायता प्राप्त होने के लिए अलग records चाहिए।
+
+### Audit and allotment search outcome
+
+- S4's retrieved view lists 2023 allotment entries. It does not establish FY 2026–27 expenditure.
+- S5 lists a department-headquarters audit entry dated 8 January 2021, reference AMG-II/Vetting-I/2020-21/35. Its linked attachment could not be retrieved.
+- S6 was tabled on 23 July 2026. Its contents/preface were inspected: the report covers other named departments and does not present a dedicated DSTTTE/ABAP follow-up chapter. This is not evidence that earlier observations are settled.
+- A dated, consolidated current teaching/non-teaching working-strength statement and an ABAP paragraph-specific action-taken report were not located in the pages searched. This is a search result, not proof of non-publication.
+
+### Next verification targets
+
+1. Signed orders 4484, 4485, 4125, 952 and 1096, including distribution annexures and amendments.
+2. Treasury expenditure / utilisation records and delivery-installation certificates for equipment.
+3. Appointment/joining records for newly created posts.
+4. Internship disbursement reconciliation.
+5. Consolidated staffing statement, and paragraph-wise replies/action taken on the historical CAG audit.
