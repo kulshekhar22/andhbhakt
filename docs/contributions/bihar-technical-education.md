@@ -109,7 +109,7 @@ Government-reported figures are attributed claims, not independent verification.
 
 ### Additional department-wide records
 
-The following are transcribed from S3's official register summaries. Signed orders and annexures have not been inspected. Classification: **official register entry located; underlying order verification pending**.
+The following were initially transcribed from S3's official register summaries. Orders 4484 and 4485 have now been checked against their complete four-page signed scans (see verification below). Underlying orders for the other entries remain unverified.
 
 | ID | Date / order | Subject | Recorded amount or posts |
 |---|---|---|---|
@@ -132,8 +132,46 @@ The following are transcribed from S3's official register summaries. Signed orde
 
 ### Next verification targets
 
-1. Signed orders 4484, 4485, 4125, 952 and 1096, including distribution annexures and amendments.
+1. Signed orders 4125, 952 and 1096; amendments affecting any listed order. Original signed scans and embedded distribution tables for 4484 and 4485 were inspected.
 2. Treasury expenditure / utilisation records and delivery-installation certificates for equipment.
 3. Appointment/joining records for newly created posts.
 4. Internship disbursement reconciliation.
 5. Consolidated staffing statement, and paragraph-wise replies/action taken on the historical CAG audit.
+
+
+## Signed-order verification — 17 October 2026
+
+### Primary documents
+
+- **S7 — Order 4484, 7 August 2026 (engineering equipment), four-page signed scan:** https://betastate.bihar.gov.in/file_2/FileUpload/2026/Aug/11-Aug-2026/18/DyPage/622af4f5-8d0b-4955-bbd9-c0c5a471a570.pdf
+- **S8 — Order 4485, 7 August 2026 (polytechnic equipment), four-page signed scan:** https://betastate.bihar.gov.in/file_2/FileUpload/2026/Aug/11-Aug-2026/18/DyPage/3129c3c1-f92e-4157-ad34-ead3922e4f46.pdf
+
+Both documents were downloaded directly from the department, rendered and visually inspected across all eight pages. They are image scans without usable extracted text. Handwritten dispatch numbers and dates on page 4 match the register. This is documentary review, not cryptographic signature authentication.
+
+### BTE-005 and BTE-006 — revised evidence status
+
+**Signed sanction order and embedded institution distribution table inspected. Actual expenditure and installation remain unverified.**
+
+| Check | Order 4484 | Order 4485 |
+|---|---|---|
+| Coverage | 38 engineering colleges | 46 polytechnics |
+| Approved amount, pages 1 and 3 | ₹60,49,99,000 | ₹60,49,99,000 |
+| First-instalment amount in order, pages 1 and 3 | ₹39,32,49,350 | ₹39,32,49,350 |
+| Distribution table | Pages 1–3, rows 1–38 | Pages 1–3, rows 1–46 |
+| Budget bill code, paragraph 3 | 43-4202021050106 | 43-4202021040109 |
+| Dispatch number/date | Page 4: 4484 / 07.08.26 | Page 4: 4485 / 07.08.26 |
+
+### Arithmetic checks
+
+Amounts are in rupees; rows were grouped by their displayed values and checked against the printed totals.
+
+- Engineering approved: 14 × 17,500,000 + 15,022,000 + 23 × 14,999,000 = **604,999,000**.
+- Engineering first instalment: 10,484,350 + 37 × 10,345,000 = **393,249,350**.
+- Polytechnic approved: 6 × 16,000,000 + 35 × 13,027,000 + 13,054,000 + 4 × 10,000,000 = **604,999,000**.
+- Polytechnic first instalment: 45 × 8,549,000 + 8,544,350 = **393,249,350**.
+
+### Conditions relevant to accountability
+
+Both orders, paragraphs 4–8 on page 3, identify principals as drawing/disbursing officers, specify the relevant district treasury, require GeM procurement (with the stated rule-based alternative when unavailable), place quality responsibility on principals, require equipment lists and installation reports, prohibit excess procurement beyond need, and limit drawal to issued allotment/budget provisions.
+
+**हिन्दी:** दोनों आदेशों की मूल scanned copies, वितरण तालिकाएँ और कुल राशि जाँची गई हैं। अब इन दो records को केवल “register entry” नहीं, बल्कि “signed sanction document inspected” कहा जा सकता है। Actual expenditure, delivery और installation की स्थिति के लिए treasury records, invoices, receipt/stock entries और installation reports चाहिए। Institution-wise figures यहाँ केवल department-wide total की जाँच के लिए पढ़े गए; अलग college profiles नहीं बनाए गए।
